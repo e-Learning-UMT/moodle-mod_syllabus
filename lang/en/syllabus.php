@@ -154,4 +154,5 @@ $string['emailtraining'] = 'If you have questions about how to add a Syllabus Re
 $string['emailclosing'] = '<p>If you have any questions about the syllabus requirement, please contact your department chair or division dean.</p>
 <p>Thanks in advance for your attention to this matter,</p>
 
-<p>eLearning Administrator<br>';
+<p>eLearning Administrator<br>
+el@umt.edu.my</p>';
