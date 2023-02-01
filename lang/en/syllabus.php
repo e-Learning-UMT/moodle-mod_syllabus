@@ -155,4 +155,5 @@ $string['emailclosing'] = '<p>If you have any questions about the syllabus requi
 <p>Thanks in advance for your attention to this matter,</p>
 
 <p>eLearning Administrator</p>
+<p>el@umt.edu.my</p>
 <p>el@umt.edu.my</p>';
