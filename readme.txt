@@ -27,3 +27,4 @@ TODO:
  * reimplement portfolio support (MDL-20079)
  * new backup/restore and old restore migration (MDL-20081)
  * reimplement resource name filter as part of more general activitynames filter (MDL-20083)
+ * setup github
